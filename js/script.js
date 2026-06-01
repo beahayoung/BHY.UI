@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $(window).resize(function () {
-        let widht = this.width();
+        let widht = $(this).width();
 
         if(widht <= 768)  {
             $("#wrap").addClass("m");
