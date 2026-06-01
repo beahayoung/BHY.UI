@@ -2189,6 +2189,7 @@ aside .twomenu {
 }
 .right_body .content .preview_content[data-name="Scroll Progress"] .scroll__wrap {
   position: relative;
+  width: 800px;
 }
 .right_body .content .preview_content[data-name="Scroll Progress"] .scroll_bar {
   position: relative;

@@ -2294,7 +2294,8 @@ aside {
             }
             &[data-name="Scroll Progress"] {
                 .scroll__wrap {
-                    position: relative;
+                        position: relative;
+    width: 800px;
                 }
                 .scroll_bar {
                     position:relative;
