@@ -1,6 +1,10 @@
 # BHY.UI
 
 > HTML / CSS / JavaScript / jQuery로 제작한 UI 컴포넌트 라이브러리
+> 로컬스토리지 이용하여 다크모드 구현
+> 반응형 생성
+
+(상호작용 가능)
 
 🔗(https://beahayoung.github.io/BHY.UI)
 
@@ -43,6 +47,7 @@
 
 ![HTML5]
 ![CSS3]
+![SCSS]
 ![JavaScript]
 ![jQuery]
 ![prettier]
