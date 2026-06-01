@@ -24,10 +24,12 @@
   }
   .m aside .dropdown {
     max-height: 450px !important;
+    height: 450px;
   }
   .m .right_body .content .preview_content {
     overflow-y: auto;
     max-height: 390px;
+    height: 390px;
   }
   .m .right_body .content .preview_content[data-name=Button] .btn {
     margin-bottom: 10px;

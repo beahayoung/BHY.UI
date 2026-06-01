@@ -41,6 +41,7 @@ $tablet:768px;
         }
         .dropdown {
             max-height: 450px!important;
+            height: 450px;
         }
         }
         .right_body {
@@ -48,6 +49,7 @@ $tablet:768px;
                 .preview_content{
                     overflow-y: auto;
                     max-height:390px;
+                    height: 390px;
                 }
                 .preview_content[data-name=Button]{
                     .btn {
